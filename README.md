@@ -9,7 +9,8 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" src="<img width="1000" height="1000" alt="WhatsApp Image 2026-04-16 at 4 56 47 PM" src="https://github.com/user-attachments/assets/1337adad-3662-4222-a2b4-f479e38074ab" />
+">
 
 * 🎓 CSE Undergraduate passionate about tech
 * 💻 Building scalable & efficient software solutions
