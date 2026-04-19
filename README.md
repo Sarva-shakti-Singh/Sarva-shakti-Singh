@@ -66,8 +66,4 @@
 
 ---
 
-### 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarva-shakti-singh/sarva-shakti-singh/output/github-contribution-grid-snake.svg" />
-</p>
